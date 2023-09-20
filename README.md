@@ -14,3 +14,5 @@ of echo chamber. As the sentiment label is missing in our
 datasets, we also applied a DistilBERT model, a
 compressed version of Bert for NLP, to predict sentiment
 labels for analysis purposes in the study
+-------------------------------------------------------------
+Author: Jianwei Luo, Rui Xue, Ziyu Zhou, Leyi Du, Wang Guangyu
